@@ -9,6 +9,7 @@ import {
 import { ThemedText } from "./ThemedText";
 import Ionicons from "@expo/vector-icons/Ionicons";
 import { Colors } from "@/constants/Colors";
+import * as React from "react";
 
 export function ImageCard({
   wallpaper,
